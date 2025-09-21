@@ -4,3 +4,6 @@ gestures/
 logs/
 .lycheecache
 .venv/
+__pycache__
+mlruns
+models

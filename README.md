@@ -18,8 +18,8 @@ This website is built automatically using GitHub Pages. The main page you're rea
     * Our award-winning model that predicts the optimal camouflage pattern for a cuttlefish based on its environment.
 1.  **[deployment](./5-deployment/summary.md)**
     * The result of my own deployment
-1.  **[Ethical Reflection: The Cuddlefish Dilemma](./7-ethics/summary.md)**
-    * A critical analysis of the ethical implications of AI-driven camouflage.
+1.  **[Ethics](./7-ethics/summary.md)**
+    * Elaborations of ethical assignments.
 
 
 ## How to setup your own portfolio

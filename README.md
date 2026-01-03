@@ -15,18 +15,11 @@ This website is built automatically using GitHub Pages. The main page you're rea
 1.  **[Hyperparameter ray](./4-hypertuning-ray/summary.md)**
     * A summary of my findings from tuning a Random Forest Classifier.
 1.  **[Hackathon Model: Legal facts](./6-hackathon/hackathon.md)**
+
 1.  **[deployment](./5-deployment/summary.md)**
     * The result of my own deployment
 1.  **[Ethics](./7-ethics/summary.md)**
     * Elaborations of ethical assignments.
 
 
-## How to setup your own portfolio
-- fork this repo
-- go to the **settings** tab on top of your github page
-- on the left-hand menu, click on **Pages**
-- under build and deployment, select `deploy from a branch`
-- select main/root and save
-
-After a few minutes you will see the site is published.
 

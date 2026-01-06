@@ -32,7 +32,7 @@ Rachels, S. (2012). The elements of moral philosophy (7th ed.). McGraw-Hill. htt
 
 Krijger, J., Thuis, T., De Ruiter, M., Ligthart, E., & Broekman, I. (2022). The AI ethics maturity model: a holistic approach to advancing ethical data science in organizations. AI And Ethics, 3(2), 355–367. https://doi.org/10.1007/s43681-022-00228-7
 
-Ministerie van Algemene Zaken. (2024, August 20). Impact Assessment Mensenrechten en Algoritmes. Rapport | Rijksoverheid.nl. https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes
+Ministerie van Algemene Zaken. (2024, August 20). Impact Assessment Mensenrechten en Algoritmes. Rapport \| Rijksoverheid.nl. https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes
 
 ## Assignment 2
 ### Dating app Breeze
@@ -61,7 +61,7 @@ The Breeze case demonstrates how a well-intentioned matching app can produce dis
 #### Literature
 Breeze Social B.V. discrimineert niet, als zij maatregelen neemt die voorkomen dat haar algoritme gebruikers met een niet-Nederlandse afkomst of donkere huidskleur benadeelt. | College voor de Rechten van de Mens. (n.d.). https://oordelen.mensenrechten.nl/oordeel/2023-82
 
-Dating-app Breeze mag (en moet) algoritme aanpassen om discriminatie te voorkomen | College voor de Rechten van de Mens. (2023, September 6). College Voor De Rechten Van De Mens. https://www.mensenrechten.nl/actueel/nieuws/2023/09/06/dating-app-breeze-mag-en-moet-algoritme-aanpassen-om-discriminatie-te-voorkomen
+Dating-app Breeze mag (en moet) algoritme aanpassen om discriminatie te voorkomen \| College voor de Rechten van de Mens. (2023, September 6). College Voor De Rechten Van De Mens. https://www.mensenrechten.nl/actueel/nieuws/2023/09/06/dating-app-breeze-mag-en-moet-algoritme-aanpassen-om-discriminatie-te-voorkomen
 
 De eerlijkheid van algoritmes. (2025, May 13). Tue. https://www.tue.nl/nieuws-en-evenementen/nieuwsoverzicht/13-05-2025-de-eerlijkheid-van-algoritmes
 

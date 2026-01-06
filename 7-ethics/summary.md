@@ -32,11 +32,11 @@ Rachels, S. (2012). The elements of moral philosophy (7th ed.). McGraw-Hill. htt
 
 Krijger, J., Thuis, T., De Ruiter, M., Ligthart, E., & Broekman, I. (2022). The AI ethics maturity model: a holistic approach to advancing ethical data science in organizations. AI And Ethics, 3(2), 355–367. https://doi.org/10.1007/s43681-022-00228-7
 
-Ministerie van Algemene Zaken. (2024, August 20). Impact Assessment Mensenrechten en Algoritmes. Rapport \| Rijksoverheid.nl. https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes
+Ministerie van Algemene Zaken. (2024, August 20). Impact Assessment Mensenrechten en Algoritmes. Rapport &#124; Rijksoverheid.nl. https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes
 
 ## Assignment 2
 ### Dating app Breeze
-Breeze is a Dutch dating app that received a Human Rights Commission ruling in 2023 on whether it discriminates. An algorithm is used to determine a match probability for all users. It's notable that users of non-Dutch descent and darker skin receive fewer matches than other users (Dating-app Breeze Mag (En Moet) Algoritme Aanpassen Om Discriminatie Te Voorkomen | College Voor De Rechten Van De Mens, 2023).
+Breeze is a Dutch dating app that received a Human Rights Commission ruling in 2023 on whether it discriminates. An algorithm is used to determine a match probability for all users. It's notable that users of non-Dutch descent and darker skin receive fewer matches than other users (Dating-app Breeze Mag (En Moet) Algoritme Aanpassen Om Discriminatie Te Voorkomen &#124; College Voor De Rechten Van De Mens, 2023).
 
 Below, I will first discuss my initial impression of the ethical problem. Then, using a DAG, I will visually illustrate the choices, dependencies, and associated outcomes related to this dilemma. Based on this, I will indicate which aspects were not yet apparent during the initial assessment. Finally, a recommendation will be made to the data scientist who would be working on this assignment.
 
@@ -44,7 +44,7 @@ Below, I will first discuss my initial impression of the ethical problem. Then, 
 My initial impression of the ethical issues surrounding the dating app Breeze is worrying. As a company, you are liable for any algorithm you use. That's why I'm surprised they themselves lack insight into the consequences of the algorithm's use of like behavior. Since the algorithm uses feedback loops, this likely reinforces individual user biases, among other things. This is despite the fact that both user feedback and Breeze's own research show that the algorithm treats users unequally. Furthermore, it would be beneficial for transparency if Breeze had more insight into how its matching scores are calculated.
 
 #### DAG for dilemma
-Below, a directed acyclic graph visualizes the dependencies in this dilemma. It shows how the combination of liking behavior and user profile influences the match score. This, in turn, determines how many matches a user receives. Ultimately, this influences the group of people who use this app (Breeze Social B.V. Discrimineert Niet, Als Zij Maatregelen Neemt Die Voorkomen Dat Haar Algoritme Gebruikers Met Een niet-Nederlandse Afkomst of Donkere Huidskleur Benadeelt. | College Voor De Rechten Van De Mens, n.d.). 
+Below, a directed acyclic graph visualizes the dependencies in this dilemma. It shows how the combination of liking behavior and user profile influences the match score. This, in turn, determines how many matches a user receives. Ultimately, this influences the group of people who use this app (Breeze Social B.V. Discrimineert Niet, Als Zij Maatregelen Neemt Die Voorkomen Dat Haar Algoritme Gebruikers Met Een niet-Nederlandse Afkomst of Donkere Huidskleur Benadeelt. &#124; College Voor De Rechten Van De Mens, n.d.). 
 
 <img src="./DAG.png" alt="The dependencies of this dilemma in a directed acyclic graph" width="800"/>
 
@@ -59,9 +59,9 @@ Furthermore, it's important to measure fairness using fairness metrics. This all
 The Breeze case demonstrates how a well-intentioned matching app can produce discriminatory results through hidden feedback loops. With careful design and fairness assurance, data scientists must take responsibility for preventing algorithmic bias.
 
 #### Literature
-Breeze Social B.V. discrimineert niet, als zij maatregelen neemt die voorkomen dat haar algoritme gebruikers met een niet-Nederlandse afkomst of donkere huidskleur benadeelt. | College voor de Rechten van de Mens. (n.d.). https://oordelen.mensenrechten.nl/oordeel/2023-82
+Breeze Social B.V. discrimineert niet, als zij maatregelen neemt die voorkomen dat haar algoritme gebruikers met een niet-Nederlandse afkomst of donkere huidskleur benadeelt. &#124; College voor de Rechten van de Mens. (n.d.). https://oordelen.mensenrechten.nl/oordeel/2023-82
 
-Dating-app Breeze mag (en moet) algoritme aanpassen om discriminatie te voorkomen \| College voor de Rechten van de Mens. (2023, September 6). College Voor De Rechten Van De Mens. https://www.mensenrechten.nl/actueel/nieuws/2023/09/06/dating-app-breeze-mag-en-moet-algoritme-aanpassen-om-discriminatie-te-voorkomen
+Dating-app Breeze mag (en moet) algoritme aanpassen om discriminatie te voorkomen &#124; College voor de Rechten van de Mens. (2023, September 6). College Voor De Rechten Van De Mens. https://www.mensenrechten.nl/actueel/nieuws/2023/09/06/dating-app-breeze-mag-en-moet-algoritme-aanpassen-om-discriminatie-te-voorkomen
 
 De eerlijkheid van algoritmes. (2025, May 13). Tue. https://www.tue.nl/nieuws-en-evenementen/nieuwsoverzicht/13-05-2025-de-eerlijkheid-van-algoritmes
 

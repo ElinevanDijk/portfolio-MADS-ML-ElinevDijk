@@ -13,10 +13,10 @@ This website is built automatically using GitHub Pages. The main page you're rea
 1.  **[Hyperparameter rnn](./3-hypertuning-rnn/summary.md)**
     * Summary of the third week
 1.  **[Hyperparameter ray](./4-hypertuning-ray/summary.md)**
-    * A summary of my findings from tuning a Random Forest Classifier.
+    * A summary of the fourth week.
 1.  **[Hackathon Model: Legal facts](./6-hackathon/hackathon.md)**
 
-1.  **[deployment](./5-deployment/summary.md)**
+1.  **[Deployment](./5-deployment/summary.md)**
     * The result of my own deployment
 1.  **[Ethics](./7-ethics/summary.md)**
     * Elaborations of ethical assignments.
